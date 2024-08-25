@@ -19,3 +19,8 @@ You can retrieve and set up the script and systemd service using `curl` from you
 ```bash
 curl -L -o /usr/local/bin/reset-network.sh https://raw.githubusercontent.com/vinn-chege/usbhub-network-reset/main/setup_reset_network.sh
 ```
+
+```bash
+chmod +x setup_reset_network.sh
+sudo ./setup_reset_network.sh
+```
