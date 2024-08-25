@@ -21,6 +21,6 @@ curl -L -o /usr/local/bin/reset-network.sh https://raw.githubusercontent.com/vin
 ```
 
 ```bash
-chmod +x setup_reset_network.sh
-sudo ./setup_reset_network.sh
+chmod +x /usr/local/bin/reset-network.sh
+sudo ./usr/local/bin/reset-network.sh
 ```
