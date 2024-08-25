@@ -17,6 +17,5 @@ The `reset-network.sh` script performs the following tasks:
 You can retrieve and set up the script and systemd service using `curl` from your private GitHub repository:
 
 ```bash
-# Download the script
-curl -L -o /usr/local/bin/reset-network.sh https://raw.githubusercontent.com/vinn-chege/usbhub-network-reset/main/setup_reset_network.sh?token=GHSAT0AAAAAACWPK5M6UJJVLPT5PLCTVX54ZWLE45A
+curl -L -o /usr/local/bin/reset-network.sh https://raw.githubusercontent.com/vinn-chege/usbhub-network-reset/main/setup_reset_network.sh
 ```
